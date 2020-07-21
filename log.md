@@ -14,3 +14,16 @@ Gave codeforces Div2 contest, it was okayish. Could solve only 1 question :(
 
 **Link to work:** 
 * [Source codes of the day](https://github.com/ere6us/100-days-of-code/tree/master/DailyCodes/2020/July/21)
+
+### Day 2: July 22, 2020
+
+**Today's Progress**: 
+- [ ] Attempt Leetcode.
+- [ ] Give hackerearth circuit.
+- [ ] Solve atleast 1 question on GFG.
+- [ ] Learn DP
+
+**Thoughts:** 
+
+**Link to work:** 
+* [Source codes of the day](https://github.com/ere6us/100-days-of-code/tree/master/DailyCodes/2020/July/22)
