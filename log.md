@@ -11,4 +11,4 @@
 **Thoughts:** Excited to log here daily.
 
 **Link to work:** 
-* [July LeetCoding Challenge, 21 July](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3397/)
+* [Source codes of the day](https://github.com/ere6us/100-days-of-code/tree/master/DailyCodes/2020/July/21)
