@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: July 21, 2020
+### Day 1: July 21, 2020
 
 **Today's Progress**: 
 - [x] Planned next 15 days.
