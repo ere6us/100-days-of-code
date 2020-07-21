@@ -6,7 +6,7 @@
 - [x] Planned next 15 days.
 - [ ] Attempted Leetcode.
 - [ ] Gonna give codeforces.
-- [ ] Gonna solve 1 question on GFG.
+- [X] Gonna solve 1 question on GFG.
 
 **Thoughts:** Excited to log here daily.
 
