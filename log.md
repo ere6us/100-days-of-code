@@ -3,12 +3,14 @@
 ### Day 1: July 21, 2020
 
 **Today's Progress**: 
-- [x] Planned next 15 days.
-- [ ] Attempted Leetcode.
-- [ ] Gonna give codeforces.
-- [X] Gonna solve 1 question on GFG.
+- [x] Plan next 15 days.
+- [x] Attempt Leetcode.
+- [x] Give codeforces.
+- [X] Solve atleast 1 question on GFG.
+- [x] Watch Introduction to DP, Aditya Verma
 
-**Thoughts:** Excited to log here daily.
+**Thoughts:** Excited to log here daily. Attempted the daily leetcode but could not solve it.
+Gave codeforces Div2 contest, it was okayish. Could solve only 1 question :(
 
 **Link to work:** 
 * [Source codes of the day](https://github.com/ere6us/100-days-of-code/tree/master/DailyCodes/2020/July/21)
