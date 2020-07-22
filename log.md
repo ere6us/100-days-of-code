@@ -18,12 +18,12 @@ Gave codeforces Div2 contest, it was okayish. Could solve only 1 question :(
 ### Day 2: July 22, 2020
 
 **Today's Progress**: 
-- [ ] Attempt Leetcode.
+- [x] Attempt Leetcode.
 - [ ] Give hackerearth circuit.
 - [x] Solve atleast 1 question on GFG.
 - [x] Learn DP
 
-**Thoughts:** The question on GFG was of 2 pointer. Failed in first try, but succeeded in 2nd. Yay! Watched 2nd episode about different types of Knapsack. 
+**Thoughts:** The question on GFG was of 2 pointer. Failed in first try, but succeeded in 2nd. Yay! Watched 2nd episode about different types of Knapsack. The Leetcode question made me realize I should improve my basics of algorithms.
 
 **Link to work:** 
 * [Source codes of the day](https://github.com/ere6us/100-days-of-code/tree/master/DailyCodes/2020/July/22)
