@@ -21,9 +21,9 @@ Gave codeforces Div2 contest, it was okayish. Could solve only 1 question :(
 - [ ] Attempt Leetcode.
 - [ ] Give hackerearth circuit.
 - [x] Solve atleast 1 question on GFG.
-- [ ] Learn DP
+- [x] Learn DP
 
-**Thoughts:** The question on GFG was of 2 pointer. Failed in first try, but succeeded in 2nd. Yay!
+**Thoughts:** The question on GFG was of 2 pointer. Failed in first try, but succeeded in 2nd. Yay! Watched 2nd episode about different types of Knapsack. 
 
 **Link to work:** 
 * [Source codes of the day](https://github.com/ere6us/100-days-of-code/tree/master/DailyCodes/2020/July/22)
