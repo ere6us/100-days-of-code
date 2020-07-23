@@ -35,7 +35,7 @@ Gave codeforces Div2 contest, it was okayish. Could solve only 1 question :(
 - [x] Solve atleast 3 question on GFG.
 - [x] Give mock contest (2 hours) on GFG.
 - [x] Progress in DP.
-- [x] Fuck mind on LeetCode over queue and recursion.
+- [x] Fuck mind on LeetCode over queue and recursion and finally solved one question.
 
 **Thoughts:** Solved 3 questions on GFG. If I knew priority queue, I'd have done better in the mock contest. <br>
 Learned recursive solution of 0-1 Knapsack problem.
