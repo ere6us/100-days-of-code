@@ -31,11 +31,12 @@ Gave codeforces Div2 contest, it was okayish. Could solve only 1 question :(
 ### Day 3: July 23, 2020
 
 **Today's Progress**: 
-- [ ] Attempt Leetcode.
+- [x] Solve Leetcode.
 - [x] Solve atleast 3 question on GFG.
-- [ ] Progress in DP
+- [x] Give mock contest (2 hours) on GFG.
+- [ ] Progress in DP.
 
-**Thoughts:** Solved 3 array questions on GFG. 
+**Thoughts:** Solved 3 questions on GFG. If I knew priority queue, I'd have done better in the mock contest.
 
 **Link to work:** 
 * [Source codes of the day](https://github.com/ere6us/100-days-of-code/tree/master/DailyCodes/2020/July/23)
