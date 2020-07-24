@@ -42,3 +42,11 @@ Learned recursive solution of 0-1 Knapsack problem.
 
 **Link to work:** 
 * [Source codes of the day](https://github.com/ere6us/100-days-of-code/tree/master/DailyCodes/2020/July/23)
+
+### Day 4: July 24, 2020
+
+**Today's Progress**: 
+
+- [x] Give codeforces contest (2 hour)
+
+**Thoughts:** The typical day of 2020.
