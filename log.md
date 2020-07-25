@@ -50,3 +50,15 @@ Learned recursive solution of 0-1 Knapsack problem.
 - [x] Give codeforces contest (2 hour)
 
 **Thoughts:** The typical day of 2020.
+
+### Day 5: July 25, 2020
+
+**Today's Progress**: 
+- [x] Solve Leetcode.
+- [x] Give CodeChef contest.
+
+**Thoughts:** Doesn't matter if the world is burning arround me,<br>
+If I am alive, I am gonna do it anyway.
+
+**Link to work:** 
+* Gonna give it more importance after everything will be normal.
