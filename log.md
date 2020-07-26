@@ -62,3 +62,15 @@ If I am alive, I am gonna do it anyway.
 
 **Link to work:** 
 * Gonna give it more importance after everything will be normal.
+
+
+### Day 6: July 26, 2020
+
+**Today's Progress**: 
+- [x] Solve Leetcode.
+- [x] Give HackerRank mock contest.
+
+**Thoughts:** LanaDelRey is lob.
+
+**Link to work:** 
+* Gonna give it more importance after everything will be normal.
