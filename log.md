@@ -63,7 +63,6 @@ If I am alive, I am gonna do it anyway.
 **Link to work:** 
 * Gonna give it more importance after everything will be normal.
 
-
 ### Day 6: July 26, 2020
 
 **Today's Progress**: 
@@ -74,3 +73,16 @@ If I am alive, I am gonna do it anyway.
 
 **Link to work:** 
 * Gonna give it more importance after everything will be normal.
+
+### Day 7: July 27, 2020
+
+**Today's Progress**: 
+- [ ] Attempt practice questions.
+- [ ] Attempt Leetcode.
+- [ ] Give CodeNation contest.
+- [ ] Progress in DP, Aditya Verma
+
+**Thoughts:** <3
+
+**Link to work:** 
+* [Source codes of the day](https://github.com/ere6us/100-days-of-code/tree/master/DailyCodes/2020/July/27)
