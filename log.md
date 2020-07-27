@@ -77,12 +77,6 @@ If I am alive, I am gonna do it anyway.
 ### Day 7: July 27, 2020
 
 **Today's Progress**: 
-- [ ] Attempt practice questions.
-- [ ] Attempt Leetcode.
-- [ ] Give CodeNation contest.
-- [ ] Progress in DP, Aditya Verma
+- [x] Give CodeNation contest.
 
-**Thoughts:** <3
-
-**Link to work:** 
-* [Source codes of the day](https://github.com/ere6us/100-days-of-code/tree/master/DailyCodes/2020/July/27)
+**Thoughts:** I took it a little slow for few days. Now will gradually speed up.
