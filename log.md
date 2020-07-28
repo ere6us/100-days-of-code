@@ -80,3 +80,11 @@ If I am alive, I am gonna do it anyway.
 - [x] Give CodeNation contest.
 
 **Thoughts:** I took it a little slow for few days. Now will gradually speed up.
+
+
+### Day 8: July 28, 2020
+
+**Today's Progress**: 
+- [x] Solve GFG
+
+**Thoughts:** I need my energy back........
