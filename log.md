@@ -88,3 +88,10 @@ If I am alive, I am gonna do it anyway.
 - [x] Solve GFG
 
 **Thoughts:** I need my energy back........
+
+### Day 9: July 29, 2020
+
+**Today's Progress**: 
+- [x] Give CodeForces Contest
+
+**Thoughts:** NULL
