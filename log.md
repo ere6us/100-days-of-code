@@ -95,3 +95,11 @@ If I am alive, I am gonna do it anyway.
 - [x] Give CodeForces Contest
 
 **Thoughts:** NULL
+
+
+### Day 10: July 30, 2020
+
+**Today's Progress**: 
+- [x] Give CodeForces Contest
+
+**Thoughts:** NULL
