@@ -103,3 +103,11 @@ If I am alive, I am gonna do it anyway.
 - [x] Give CodeForces Contest
 
 **Thoughts:** NULL
+
+### Day 11: July 31, 2020
+
+**Today's Progress**: 
+- [x] Solved leetcode questions
+- [x] Introduction to Graphics and Visuals
+
+**Thoughts:** My college has started so, I'll have lesser time now.
