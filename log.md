@@ -111,3 +111,10 @@ If I am alive, I am gonna do it anyway.
 - [x] Introduction to Graphics and Visuals
 
 **Thoughts:** My college has started so, I'll have lesser time now.
+
+### Day 12: August 1, 2020
+
+**Today's Progress**: 
+- [x] Give CodeNation Test
+
+**Thoughts:** Due to Eid, I was in relax mode. 
