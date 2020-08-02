@@ -118,3 +118,10 @@ If I am alive, I am gonna do it anyway.
 - [x] Give CodeNation Test
 
 **Thoughts:** Due to Eid, I was in relax mode. 
+
+### Day 13: August 2, 2020
+
+**Today's Progress**: 
+- [x] Solve LeetCode question
+
+**Thoughts:** NULL
