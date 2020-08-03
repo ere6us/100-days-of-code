@@ -125,3 +125,11 @@ If I am alive, I am gonna do it anyway.
 - [x] Solve LeetCode question
 
 **Thoughts:** NULL
+
+### Day 14: August 3, 2020
+
+**Today's Progress**: 
+- [x] Solve Daily LeetCode question.
+- [x] Brainfuck in GFG question for hours.
+
+**Thoughts:** Realised how weak I am in DS & Algo
