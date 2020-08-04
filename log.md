@@ -133,3 +133,8 @@ If I am alive, I am gonna do it anyway.
 - [x] Brainfuck in GFG question for hours.
 
 **Thoughts:** Realised how weak I am in DS & Algo
+
+**Today's Progress**: 
+- [x] Solve Daily LeetCode question.
+
+**Thoughts:** The time is passing by...
