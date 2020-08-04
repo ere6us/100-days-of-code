@@ -134,6 +134,8 @@ If I am alive, I am gonna do it anyway.
 
 **Thoughts:** Realised how weak I am in DS & Algo
 
+### Day 15: August 4, 2020
+
 **Today's Progress**: 
 - [x] Solve Daily LeetCode question.
 
