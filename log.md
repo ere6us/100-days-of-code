@@ -140,3 +140,11 @@ If I am alive, I am gonna do it anyway.
 - [x] Solve Daily LeetCode question.
 
 **Thoughts:** The time is passing by...
+
+### Day 16: August 5, 2020
+
+**Today's Progress**: 
+- [x] Solve LeetCode question.
+- [x] Learn and solve Bresenham Algorithm (But it was for my college so I am not gonna count it in)
+
+**Thoughts:** The tired body from completing all the responsibilites of the day is happier than the one who keeps tasks for tomorrow.
