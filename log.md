@@ -148,3 +148,10 @@ If I am alive, I am gonna do it anyway.
 - [x] Learn and solve Bresenham Algorithm (But it was for my college so I am not gonna count it in)
 
 **Thoughts:** The tired body from completing all the responsibilites of the day is happier than the one who keeps tasks for tomorrow.
+
+### Day 17: August 6, 2020
+
+**Today's Progress**: 
+- [x] Solve Daily LeetCode question.
+
+**Thoughts:** Load is increasing due to college work!
