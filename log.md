@@ -155,3 +155,12 @@ If I am alive, I am gonna do it anyway.
 - [x] Solve Daily LeetCode question.
 
 **Thoughts:** Load is increasing due to college work!
+
+### Day 18: August 7, 2020
+
+**Today's Progress**: 
+- [x] Attempted Daily LeetCode question.
+- [x] Solved a basic graph problem. 
+
+**Thoughts:** ... 
+
