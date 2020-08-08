@@ -164,3 +164,9 @@ If I am alive, I am gonna do it anyway.
 
 **Thoughts:** ... 
 
+### Day 19: August 8, 2020
+
+**Today's Progress**: 
+- [x] Attempted a graph question.
+
+**Thoughts:** Don't take stress of not doing enough. You know, these are the hard times. Let them pass by. Gradually. 
