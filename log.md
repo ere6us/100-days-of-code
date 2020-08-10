@@ -177,3 +177,12 @@ If I am alive, I am gonna do it anyway.
 - [x] Learned GLUT in OpenGL (But this was college's work. So not gonna count.)
 
 **Thoughts:** Basically in terms of coding, this was a poor day. Otherwise whole year is poor. Uh!
+
+### Day 20: August 10, 2020
+
+**Today's Progress**: 
+- [x] Practiced a BFS question in Graph.
+- [x] Solved the daily LeetCode question.
+- [x] Attempted the reverse of the daily leetcode question, but could not solve yet.
+
+**Thoughts:** Uh. College from ~~tomorrow~~ today. Loads of assignment.
