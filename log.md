@@ -186,3 +186,12 @@ If I am alive, I am gonna do it anyway.
 - [x] Attempted the reverse of the daily leetcode question, but could not solve yet.
 
 **Thoughts:** Uh. College from ~~tomorrow~~ today. Loads of assignment.
+
+### Day 21: August 11, 2020
+
+**Today's Progress**: 
+- [x] Practiced a DFS question in Graph.
+- [x] Attempted the daily LeetCode question.
+- [x] Getting comfortable with Graphs.
+
+**Thoughts:** Gotta learn Dijkstra ~~tomorrow~~ today.
