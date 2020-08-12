@@ -195,3 +195,10 @@ If I am alive, I am gonna do it anyway.
 - [x] Getting comfortable with Graphs.
 
 **Thoughts:** Gotta learn Dijkstra ~~tomorrow~~ today.
+
+### Day 22: August 12, 2020
+
+**Today's Progress**: 
+Nothing new to learn. Attended an hour Sprinklr PPT. Gave 2.5 hour coding contest.
+
+**Thoughts:** Had to learn Dijkstra today. But can't delay more. This weekend is gonna be hardcore.
