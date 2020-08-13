@@ -202,3 +202,14 @@ If I am alive, I am gonna do it anyway.
 Nothing new to learn. Attended an hour Sprinklr PPT.<br> Gave 2.5 hour coding contest.
 
 **Thoughts:** Had to learn Dijkstra today. <br>But can't delay more. This weekend is gonna be hardcore.
+
+### Day 22a: August 13, 2020
+
+**Today's Progress**: 
+* Attended College lectures
+* Watched PPT sessions
+* Gave 95 minutes coding test
+* Confessed that I am a mediocre right now. Planned further steps to improvise the skills.
+* Attempted daily leetcode, but I had a poor aproach, so could not solve it.
+
+**Thoughts:** Honestly these are not real progress. <br> Gonna give 1hr specifically from tomorrow.
