@@ -213,3 +213,12 @@ Nothing new to learn. Attended an hour Sprinklr PPT.<br> Gave 2.5 hour coding co
 * Attempted daily leetcode, but I had a poor aproach, so could not solve it.
 
 **Thoughts:** Honestly these are not real progress. <br> Gonna give 1hr specifically from tomorrow.
+
+### Day 22b: August 14, 2020
+
+**Today's Progress**: 
+* Attended College lectures
+* Gave 90 minutes coding test
+* Read articles on heap, priority queues
+
+**Thoughts:** Tomorrow gonna solve the Dijkstra problem. 
