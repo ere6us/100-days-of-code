@@ -222,3 +222,11 @@ Nothing new to learn. Attended an hour Sprinklr PPT.<br> Gave 2.5 hour coding co
 * Read articles on heap, priority queues
 
 **Thoughts:** Tomorrow gonna solve the Dijkstra problem. 
+
+### Day 23: August 15, 2020
+
+**Today's Progress**: 
+* Yep solved the Dijkstra Algorithm which I pledged yesterday. It took my whole day.<br>
+Solve using both priority queue and normal vector. Gonna solve it again later using STL.
+
+**Thoughts:** Gonna do some more assignments. See ya later.
