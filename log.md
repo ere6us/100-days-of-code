@@ -230,3 +230,13 @@ Nothing new to learn. Attended an hour Sprinklr PPT.<br> Gave 2.5 hour coding co
 Solved using both priority queue and normal vector. Gonna solve it again later using STL.
 
 **Thoughts:** Gonna do some more assignments. See ya later.
+
+### Day 23b: August 16, 2020
+
+**Today's Progress**: 
+* Copied a code from GFG to convert an image into ASCII and modified it.
+* Copied some assignments of MATLAB
+* Installed Pillow package and PyQt5 in Python
+* Createad a basic window in Qt-designer<br> but could create the whole assignment due to lack of time
+
+**Thoughts:** Not counting it as day 24 because did just college assignments.
