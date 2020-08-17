@@ -240,3 +240,12 @@ Solved using both priority queue and normal vector. Gonna solve it again later u
 * Createad a basic window in Qt-designer<br> but could create the whole assignment due to lack of time
 
 **Thoughts:** Not counting it as day 24 because did just college assignments.
+
+### Day 24: August 17, 2020
+
+**Today's Progress**: 
+* Solved daily leetcode question
+* Watched the AI lectures.
+
+**Thoughts:** After an exhausting week today was a rest day. <br>From tomorrow, gonna dive into another exhausting week 2. <br>
+Found that in AI, the graphs and algos need to be strong. So gonna solve some questions.
