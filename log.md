@@ -249,3 +249,11 @@ Solved using both priority queue and normal vector. Gonna solve it again later u
 
 **Thoughts:** After an exhausting week today was a rest day. <br>From tomorrow, gonna dive into another exhausting week 2. <br>
 Found that in AI, the graphs and algos need to be strong. So gonna solve some questions.
+
+### Day 24b: August 18, 2020
+
+**Today's Progress**: 
+* Saw the leetcode, but couldn't solve
+* Attended lectures
+
+**Thoughts:** Not a productive day
