@@ -257,3 +257,10 @@ Found that in AI, the graphs and algos need to be strong. So gonna solve some qu
 * Attended lectures
 
 **Thoughts:** Not a productive day
+
+### Day 24c: August 19, 2020
+
+**Today's Progress**: 
+* Did Nothing
+
+**Thoughts:** ...
