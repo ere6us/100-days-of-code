@@ -264,3 +264,11 @@ Found that in AI, the graphs and algos need to be strong. So gonna solve some qu
 * Did Nothing
 
 **Thoughts:** ...
+
+### Day 24d: August 20, 2020
+
+**Today's Progress**: 
+* Attended lectures
+* Learned Uniform-Cost Search algorithm
+
+**Thoughts:** ...
