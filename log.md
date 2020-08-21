@@ -272,3 +272,10 @@ Found that in AI, the graphs and algos need to be strong. So gonna solve some qu
 * Learned Uniform-Cost Search algorithm
 
 **Thoughts:** ...
+
+### Day 25: August 21, 2020
+
+**Today's Progress**: 
+* Attempted solving 8 puzzle problem. But getting *'std::bad_alloc'* error.
+
+**Thoughts:** ...
