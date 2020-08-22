@@ -279,3 +279,11 @@ Found that in AI, the graphs and algos need to be strong. So gonna solve some qu
 * Attempted solving 8 puzzle problem. But getting *'std::bad_alloc'* error.
 
 **Thoughts:** ...
+
+### Day 26: August 22, 2020
+
+**Today's Progress**: 
+* Debugged 8-Puzzle problem
+* Solved water-jug problem
+
+**Thoughts:** ...
