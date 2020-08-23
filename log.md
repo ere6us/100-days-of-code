@@ -287,3 +287,11 @@ Found that in AI, the graphs and algos need to be strong. So gonna solve some qu
 * Solved water-jug problem
 
 **Thoughts:** ...
+
+### Day 27: August 23, 2020
+
+**Today's Progress**: 
+* Solved Missionary-Cannibal Problem
+* Solved Travelling Salesman Problem
+
+**Thoughts:** So, glad to write efficient codes of above problems.
