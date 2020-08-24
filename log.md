@@ -295,3 +295,10 @@ Found that in AI, the graphs and algos need to be strong. So gonna solve some qu
 * Solved Travelling Salesman Problem
 
 **Thoughts:** So, glad to write efficient codes of above problems.
+
+### Day 27b: August 24, 2020
+
+**Today's Progress**: 
+* Gave a 1.5 hour contest.
+
+**Thoughts:** ...
