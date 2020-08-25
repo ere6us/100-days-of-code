@@ -302,3 +302,10 @@ Found that in AI, the graphs and algos need to be strong. So gonna solve some qu
 * Gave a 1.5 hour contest.
 
 **Thoughts:** ...
+
+### Day 28: August 25, 2020
+
+**Today's Progress**: 
+* Learned Greedy Algorithm
+
+**Thoughts:** ...
