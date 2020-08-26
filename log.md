@@ -313,6 +313,6 @@ Found that in AI, the graphs and algos need to be strong. So gonna solve some qu
 ### Day 28b: August 26, 2020
 
 **Today's Progress**: 
-* Did Nothing
+* Solved daily leetcode question and did nothing.
 
 **Thoughts:** ...
