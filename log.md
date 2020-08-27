@@ -316,3 +316,10 @@ Found that in AI, the graphs and algos need to be strong. So gonna solve some qu
 * Solved daily leetcode question and did nothing.
 
 **Thoughts:** ...
+
+### Day 28c: August 27, 2020
+
+**Today's Progress**: 
+* Gave the SAP contest of 1 hour.
+
+**Thoughts:** could have solved both of the coding questions, but I couldn't find an approach to find all subsequences of a string at that moment.
