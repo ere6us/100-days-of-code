@@ -323,3 +323,11 @@ Found that in AI, the graphs and algos need to be strong. So gonna solve some qu
 * Gave the SAP contest of 1 hour.
 
 **Thoughts:** could have solved both of the coding questions, but I couldn't find an approach to find all subsequences of a string at that moment.
+
+### Day 29: August 28, 2020
+
+**Today's Progress**: 
+* Solved daily LeetCode
+* Practiced binary search
+
+**Thoughts:** ...
