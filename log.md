@@ -331,3 +331,10 @@ Found that in AI, the graphs and algos need to be strong. So gonna solve some qu
 * Practiced binary search
 
 **Thoughts:** ...
+
+### Day 30b: August 30, 2020
+
+**Today's Progress**: 
+* Solved some assignments and nothing
+
+**Thoughts:** ...
