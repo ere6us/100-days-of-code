@@ -338,3 +338,10 @@ Found that in AI, the graphs and algos need to be strong. So gonna solve some qu
 * Solved some assignments and nothing
 
 **Thoughts:** ...
+
+### Day 31: August 31, 2020
+
+**Today's Progress**: 
+* Gave a coding test.
+
+**Thoughts:** ...
