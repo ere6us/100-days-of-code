@@ -345,3 +345,10 @@ Found that in AI, the graphs and algos need to be strong. So gonna solve some qu
 * Gave a coding test.
 
 **Thoughts:** ...
+
+### Day 32: September 1, 2020
+
+**Today's Progress**: 
+* Attempted daily LeetCode.
+
+**Thoughts:** ...
