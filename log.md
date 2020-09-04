@@ -359,3 +359,10 @@ Found that in AI, the graphs and algos need to be strong. So gonna solve some qu
 * Solved some basic questions.
 
 **Thoughts:** ...
+
+### Day 33c: September 4, 2020
+
+**Today's Progress**: 
+* Gave oracle test, but questions were weird.
+
+**Thoughts:** ...
