@@ -366,3 +366,12 @@ Found that in AI, the graphs and algos need to be strong. So gonna solve some qu
 * Gave oracle test, but questions were weird.
 
 **Thoughts:** ...
+
+//D34&35 marked on twitter.
+
+### Day 36: September 7, 2020
+
+**Today's Progress**: 
+* Solved daily leetcode
+
+**Thoughts:** ...
