@@ -375,3 +375,10 @@ Found that in AI, the graphs and algos need to be strong. So gonna solve some qu
 * Solved daily leetcode
 
 **Thoughts:** ...
+
+### Day 37: September 8, 2020
+
+**Today's Progress**: 
+* Apart from classes, attempted daily leetcode, but left it in between.
+
+**Thoughts:** ...
