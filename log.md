@@ -382,3 +382,10 @@ Found that in AI, the graphs and algos need to be strong. So gonna solve some qu
 * Apart from classes, attempted daily leetcode, but left it in between.
 
 **Thoughts:** ...
+
+### Day 38: September 9, 2020
+
+**Today's Progress**: 
+* Nothing much. Day filled with college works.
+
+**Thoughts:** ...
