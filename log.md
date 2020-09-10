@@ -389,3 +389,10 @@ Found that in AI, the graphs and algos need to be strong. So gonna solve some qu
 * Nothing much. Day filled with college works.
 
 **Thoughts:** ...
+
+### Day 39: September 10, 2020
+
+**Today's Progress**: 
+* Solved a leetcode question.
+
+**Thoughts:** ...
