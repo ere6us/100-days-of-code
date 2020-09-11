@@ -396,3 +396,11 @@ Found that in AI, the graphs and algos need to be strong. So gonna solve some qu
 * Solved a leetcode question.
 
 **Thoughts:** ...
+
+### Day 40: September 11, 2020
+
+**Today's Progress**: 
+* Watched AI lectures.
+* Attempted LeetCode.
+
+**Thoughts:** ...
