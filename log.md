@@ -404,3 +404,11 @@ Found that in AI, the graphs and algos need to be strong. So gonna solve some qu
 * Attempted LeetCode.
 
 **Thoughts:** ...
+
+### Day 41: September 12, 2020
+
+**Today's Progress**: 
+* AI tests
+* Started learning Machine Learning from Andrew Ng on coursera
+
+**Thoughts:** ...
