@@ -412,3 +412,11 @@ Found that in AI, the graphs and algos need to be strong. So gonna solve some qu
 * Started learning Machine Learning from Andrew Ng on coursera
 
 **Thoughts:** ...
+
+### Day 42: September 13, 2020
+
+**Today's Progress**: 
+* Linear regression of one variable. The **J** function, which we minimize to get the optimal hypothesis.
+* Gradient Descet. IMPORTANT thing to remember, Update Theta0 and Theta1 simultaneously.
+
+**Thoughts:** ...
