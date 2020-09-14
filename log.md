@@ -420,3 +420,11 @@ Found that in AI, the graphs and algos need to be strong. So gonna solve some qu
 * Gradient Descet. IMPORTANT thing to remember, Update Theta0 and Theta1 simultaneously.
 
 **Thoughts:** ...
+
+### Day 43: September 14, 2020
+
+**Today's Progress**: 
+* Started new mini-project Dimensionality reduction and classification of hyperspectral images using SVM in a team of 4.
+* Spent the day on Literature review.
+
+**Thoughts:** ...
