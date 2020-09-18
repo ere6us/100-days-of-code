@@ -428,3 +428,10 @@ Found that in AI, the graphs and algos need to be strong. So gonna solve some qu
 * Spent the day on Literature review.
 
 **Thoughts:** ...
+
+### Day 47: September 19, 2020
+
+**Today's Progress**: 
+* Prepared the ppt and gave test after presentation.
+
+**Thoughts:** ...
